@@ -1,0 +1,25 @@
+# Proxy results (generated at runtime)
+proxies.txt
+proxies.csv
+proxies_top20.txt
+proxies_*.txt
+proxies_*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# System
+.DS_Store
+Thumbs.db
+
+# Security tools
+.agentic-security/
